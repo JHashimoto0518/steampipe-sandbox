@@ -28,10 +28,18 @@ A sandbox environment for exploring AWS resources using [Steampipe](https://stea
 2. Open the repository in VS Code, then reopen it in the Dev Container when prompted
    (or run **Dev Containers: Reopen in Container** from the Command Palette).
 
-3. Once the container is ready, you can run Steampipe queries directly from the terminal. For example, to run a sample query:
+3. Once the container is ready, you can run Steampipe queries directly from the terminal.
+
+    to run a sample query:
 
     ```bash
     steampipe query query-examples/ec2.sql
+    ```
+
+    to run queries interactively:
+
+    ```bash
+    steampipe query
     ```
 
 ## Example Queries

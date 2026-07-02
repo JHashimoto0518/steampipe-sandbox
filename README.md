@@ -28,10 +28,18 @@
 2. VS Code でリポジトリを開き、表示されるプロンプトから Dev Container で再度開きます
    （またはコマンドパレットから **Dev Containers: Reopen in Container** を実行）。
 
-3. コンテナの準備が整ったら、ターミナルから直接 Steampipe のクエリを実行できます。例えば、サンプルクエリを実行する場合：
+3. コンテナの準備が整ったら、ターミナルから直接 Steampipe のクエリを実行できます。
+
+    サンプルクエリを実行する：
 
     ```bash
     steampipe query query-examples/ec2.sql
+    ```
+
+    インタラクティブにクエリを実行する：
+
+    ```bash
+    steampipe query
     ```
 
 ## クエリ例
