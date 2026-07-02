@@ -1,0 +1,8 @@
+{
+  "name": "steampipe-sandbox",
+  "image": "mcr.microsoft.com/devcontainers/base:bookworm",
+  "features": {
+    "ghcr.io/devcontainers/features/aws-cli:1": {}
+  },
+  "postCreateCommand": ".devcontainer/post_create.sh"
+}
