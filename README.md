@@ -66,3 +66,9 @@ where
 
 - [Steampipe](https://steampipe.io/)
 - [Steampipe AWS Plugin](https://hub.steampipe.io/plugins/turbot/aws)
+
+## 関連コンテンツ
+
+- [SteampipeとExcel Power Queryで実現するAWS構成定義書自動化ガイド](https://zenn.dev/jhashimoto/articles/steampipe-powerquery-aws-configdoc)（記事）
+- [SteampipeとExcel Power QueryでAWS構成定義書の作成を自動化する - Speaker Deck](https://speakerdeck.com/jhashimoto/steampipe-powerquery-aws-configdoc)（スライド）
+- [JAWS-UG東京 ランチタイムLT会 #36 - YouTube](https://www.youtube.com/watch?v=uoA83sV7eUw)（動画）
